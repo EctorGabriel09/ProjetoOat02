@@ -22,6 +22,9 @@ import java.util.Scanner;
                 }
 
 
+
+
+
                 double valorAumento = (percentualAumento / 100) * salario;
                 double novoSalario = salario + valorAumento;
 
