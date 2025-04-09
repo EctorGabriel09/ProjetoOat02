@@ -1,29 +1,12 @@
-### IntelliJ IDEA ###
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-### VS Code ###
-.vscode/
-
-### Mac OS ###
-.DS_Store
+/.idea
+/out
+/Aulas_Java.iml
+/src/Aula01.java
+/src/Aula02.java
+/src/Aula03.java
+/src/Aula04.java
+/src/Aula05.java
+/src/Aula08.java
+/src/Main.java
+/src/Oat1.java
+/src/Teste01.java
